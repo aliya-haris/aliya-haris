@@ -1,3 +1,5 @@
+### :man_technologist: About Me :
+
 Welcome to my GitHub profile! I'm a passionate Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India, specializing in .NET development. 
 
 - 💻 Currently, I'm working as a Dotnet Developer, utilizing my expertise in C# and .NET to develop robust web applications.
