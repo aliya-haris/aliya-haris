@@ -3,10 +3,10 @@
 Welcome to my GitHub profile! I'm Aliya Haris, a passionate Data Science student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in India. 
 
 - 💻 Currently, I'm pursuing my BSc in Data Science, where I've gained expertise in Python programming, data analysis, and machine learning.
--🔍 I completed a Data Science internship at ID Fresh Food, where I analyzed van loadout prediction data using Python and data analysis tools to optimize distribution center performance.
+- 🔍 I completed a Data Science internship at ID Fresh Food, where I analyzed van loadout prediction data using Python and data analysis tools to optimize distribution center performance.
 - 🌐 In addition to my academic and professional pursuits, I've developed various projects, including implementing the Gradient Descent Algorithm in Excel and collaborating on a web-based Heart Attack Prediction and Analysis App using machine learning algorithms.
 - 🚀 Outside of data science, I enjoy exploring my interests including football and podcasts.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Aliya-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aliya-haris-6787b6275/)[![Gmail Badge](https://img.shields.io/badge/-aliyaharis06%40gmail.com-red?style=flat&logo=Gmail&logoColor=white)](mailto:aliyaharis06@gmail.com)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Aliya-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aliya-haris-6787b6275/)[![Gmail Badge](https://img.shields.io/badge/-Aliya-red?style=flat&logo=Gmail&logoColor=white)](mailto:aliyaharis06@gmail.com)
 
 ---
 
