@@ -7,6 +7,8 @@ Welcome to my GitHub profile! I'm a passionate Data Science student <img src="ht
 - ⚡ In my free time, I love exploring the latest tech articles and staying updated with emerging technologies and best practices.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Aliya-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aliya-haris-6787b6275/)
 
+---
+
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
@@ -18,6 +20,16 @@ Welcome to my GitHub profile! I'm a passionate Data Science student <img src="ht
  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongoDB"  alt="mongoDB" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aliya-haris&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliya-haris&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!---
 aliya-haris/aliya-haris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
